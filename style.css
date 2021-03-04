@@ -1,0 +1,48 @@
+
+
+body {
+  background-color: beige;
+}
+
+
+ .max{
+   background-color: blue
+ }
+ 
+ input{
+   font-weight:  30px;
+   background-color: pink;
+   border-top-left-radius: 28%;
+   border-bottom-right-radius: 20%;
+ }
+ 
+ button
+ {
+   padding : 20 
+   
+ }
+.form-inline {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.form-inline label {
+  margin: 5px 10px 5px 0;
+}
+
+.form-inline input {
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: rgb(41, 6, 240);
+  border: 1px solid rgb(4, 4, 243);
+}
+
+
+
+.crew {
+max: 20Px
+}
+
+
